@@ -15,3 +15,8 @@ public class EvenPositiinArrays {
 	        }  
 	    }  
 	}
+
+
+Elements of given array present on even position: 
+2
+4
