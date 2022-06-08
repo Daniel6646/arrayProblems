@@ -12,3 +12,9 @@ public class OddPosition {
         }  
     }  
 }  
+
+
+Elements of given array present on odd position: 
+1
+3
+5
